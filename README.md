@@ -68,3 +68,5 @@ git checkout -b version5 v5.0
 
 ## The Original Demo
 With a lot more documentation and some non-@ngrx, service only approaches that work.  Can be found here https://github.com/JavascriptMick/ng2-state-demo
+
+https://www.youtube.com/watch?v=pjwVq8B-ZAw
